@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>No bullshit</title>
+  
+  <subtitle>err!= nil</subtitle>
+  <link href="/BismarckY.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-10-28T05:51:58.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Kevin Yang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Start Page</title>
+    <link href="http://yoursite.com/2019/10/28/Start-Page/"/>
+    <id>http://yoursite.com/2019/10/28/Start-Page/</id>
+    <published>2019-10-28T05:51:58.000Z</published>
+    <updated>2019-10-28T05:51:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>初始化 </li><li><ul><li>步骤 -1</li></ul></li><li><ul><li>步骤 -2</li></ul></li><li><ul><li>步骤 -3</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;初始化 &lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;步骤 -1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;步骤 -2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;步骤 -3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Note" scheme="http://yoursite.com/tags/Note/"/>
+    
+  </entry>
+  
+</feed>
